@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2c369a02-9f64-7495-c2b3-4194036a2626
 ---
@@ -40,7 +43,7 @@ Course introduction and overview. A revisit of the design process and where new 
 Review of E&M ([PDF]({{< baseurl >}}/resources/lect2))
 {{< tdclose >}}
 {{< tdopen >}}
-An expedited review of the main concepts of E&M relevant to prototyping electronics. Concepts of voltage, current, resistance, capacitance, and inductance and their major relations: V = IR, P = IV = I 2 R, I= CdV/dt, V = LdI/dt.
+An expedited review of the main concepts of E&M relevant to prototyping electronics. Concepts of voltage, current, resistance, capacitance, and inductance and their major relations: V = IR, P = IV = I {{< sup "2" >}} R, I= CdV/dt, V = LdI/dt.
 {{< tdclose >}}
 
 {{< trclose >}}

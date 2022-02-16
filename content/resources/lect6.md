@@ -6,8 +6,13 @@ description: 'This resource includes lecture slides with a teview/introduction o
   can do). Maintain all material on a "single-bit" level at this point. Introduce
   the concept of truth tables for these elements; teach the ability to create their
   own truth-tables.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-682-prototyping-avionics-spring-2006/43d3a82750ce78ca6b8ff26aa0f55a70_lect6.pdf
+file: /media/courses/16-682-prototyping-avionics-spring-2006/43d3a82750ce78ca6b8ff26aa0f55a70_lect6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect6.pdf
 uid: 43d3a827-50ce-78ca-6b8f-f26aa0f55a70
