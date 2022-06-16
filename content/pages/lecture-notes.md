@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture slides used for the course and descriptions
+  of each lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +30,7 @@ LECTURE DESCRIPTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-(Re)Introduction to design ([PDF]({{< baseurl >}}/resources/lect1))
+(Re)Introduction to design ({{% resource_link b80a7327-a52f-eb3e-fecb-8be7660eae9b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Course introduction and overview. A revisit of the design process and where new prototyping techniques fall within it.
@@ -40,7 +42,7 @@ Course introduction and overview. A revisit of the design process and where new 
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review of E&M ([PDF]({{< baseurl >}}/resources/lect2))
+Review of E&M ({{% resource_link 8b9aaa4d-cbc4-6f81-2fb5-b348360ffef8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 An expedited review of the main concepts of E&M relevant to prototyping electronics. Concepts of voltage, current, resistance, capacitance, and inductance and their major relations: V = IR, P = IV = I {{< sup "2" >}} R, I= CdV/dt, V = LdI/dt.
@@ -52,7 +54,7 @@ An expedited review of the main concepts of E&M relevant to prototyping electron
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Discrete components ([PDF]({{< baseurl >}}/resources/lect3))
+Discrete components ({{% resource_link b3a14322-b6cf-df05-2922-acd98dbb8985 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -70,7 +72,7 @@ Review/introduction of amplifiers: emphasis on general equations to implement di
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Discrete components: Transistors ([PDF]({{< baseurl >}}/resources/lect4))
+Discrete components: Transistors ({{% resource_link 8c0cc320-2b13-9685-0456-0a280d72ed9c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Review/introduce transistors and their primary different types: NPN/PNP, MOSFETs. Emphasis on the general operation, primarily on their behavior as it affects the digital world, rather than transient behavior.
@@ -82,7 +84,7 @@ Review/introduce transistors and their primary different types: NPN/PNP, MOSFETs
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Power components ([PDF]({{< baseurl >}}/resources/lect5))
+Power components ({{% resource_link a84ad212-4b58-d074-5233-399a66b3b823 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -100,7 +102,7 @@ Understand the general operation and how to utilize: linear regulator, inductor 
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Digital components ([PDF]({{< baseurl >}}/resources/lect6))
+Digital components ({{% resource_link 43d3a827-50ce-78ca-6b8f-f26aa0f55a70 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the class description and information on learning
+  objectives, lecture topics, assignments, projects, grading, and references.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
