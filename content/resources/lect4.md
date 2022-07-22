@@ -8,6 +8,7 @@ file: /courses/16-682-prototyping-avionics-spring-2006/8c0cc3202b13968504560a280
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lect4.pdf
 uid: 8c0cc320-2b13-9685-0456-0a280d72ed9c
 ---
 This resource includes lecture slides to Review/introduce transistors and their primary different types: NPN/PNP, MOSFETs. Emphasis on the general operation, primarily on their behavior as it affects the digital world, rather than transient behavior.
-

@@ -6,6 +6,7 @@ file: /courses/16-682-prototyping-avionics-spring-2006/509832a29cb702a503079c10e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps3.pdf
 uid: 509832a2-9cb7-02a5-0307-9c10e356eaf5
 ---
 This resource contains Homework #3 on Basic Logic, Multiplexers, Latches, Flip-Flops, and Registers.
-
