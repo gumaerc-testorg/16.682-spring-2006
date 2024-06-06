@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains Homework #3 on Basic Logic, Multiplexers, Latches,
   Flip-Flops, and Registers.'
 file: /courses/16-682-prototyping-avionics-spring-2006/509832a29cb702a503079c10e356eaf5_ps3.pdf
+file_size: 48353
 file_type: application/pdf
 learning_resource_types:
 - Assignments
