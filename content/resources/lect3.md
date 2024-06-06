@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation on electronics, resistors, capacitors, inductors:
   ideal versus real, first and second order systems, diodes, and amplifiers.'
 file: /courses/16-682-prototyping-avionics-spring-2006/b3a14322b6cfdf052922acd98dbb8985_lect3.pdf
+file_size: 205691
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains Homework #1 on Basic Laws, Discrete Components,
   and Operational Amplifiers.'
 file: /courses/16-682-prototyping-avionics-spring-2006/843316c8fb15cbc0ddfe498399d9e9c3_ps1.pdf
+file_size: 52920
 file_type: application/pdf
 learning_resource_types:
 - Assignments
