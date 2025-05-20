@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes lecture slides with a course introduction, overview,
   and a revisit of the design process and where new prototyping techniques fall within
   it.
-file: /ol-ocw-studio-app/courses/16-682-prototyping-avionics-spring-2006/b80a7327a52feb3efecb8be7660eae9b_lect1.pdf
+file: /courses/16-682-prototyping-avionics-spring-2006/b80a7327a52feb3efecb8be7660eae9b_lect1.pdf
 file_size: 413676
 file_type: application/pdf
 learning_resource_types:
